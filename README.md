@@ -1,5 +1,5 @@
 # chicago-cta-ridership
-Course project analyzing CTA ridership in Chicago from 2001 to 2020
+Analyzing CTA ridership in Chicago from 2001 to 2020
 
 Answers the following questions:
 
